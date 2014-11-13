@@ -21,5 +21,6 @@
 * [Parte V - Objetivos estratégicos](partes/parte_5.md)
 	* [A. Educación](partes/educacion.md)
 	* [B. Salud](partes/salud.md)
+	* [texto que aumento ricardo para una prueba de cambio.md]
 * [Anexos 1](partes/anexos.md)
 	* [GUÍA TÉCNICA DE INTEROPERABILIDAD](partes/guia_tecnica_de_interoperabilidad.md)
